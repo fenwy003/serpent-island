@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="C:\Users\admin\Desktop\Portfolio\fenwy003\Seperant-Island-master\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_2af66aa5d7e103b954fc839599b985afb15df77f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="C:\Users\admin\Desktop\Portfolio\fenwy003\Seperant-Island-master\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_da3077e888e59a9a85ce682219ea78b0615a93ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\Desktop\Portfolio\fenwy003\Seperant-Island-master\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3de4e212cd59ab16d8d219323636a87d70ca282c">
+        <dex dex="C:\Users\admin\Desktop\Portfolio\fenwy003\Seperant-Island-master\android\build\intermediates\pre-dexed\debug\core-1.0_fc4feb184ad192344dabdb90b9dd66aa639d933b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="C:\Users\admin\Desktop\Portfolio\fenwy003\Seperant-Island-master\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_bc4e179c9b295980f526d15f5cb17885678c7905.jar" />
+    </item>
+
+</items>
